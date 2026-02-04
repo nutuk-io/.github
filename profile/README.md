@@ -2,7 +2,7 @@
   <img src="https://nutuk.io/logo.png" alt="Nutuk Logo" width="200" />
 </p>
 
-<h1 align="center">Nutuk</h1>
+<h1 align="center">nutuk.io</h1>
 
 <p align="center">
   <strong>Yüksek kaliteli metin-ses dönüşümü (TTS) platformu</strong>
@@ -16,7 +16,7 @@
 
 ---
 
-## Nutuk Nedir?
+## nutuk.io Nedir?
 
 Nutuk, Dil metinlerini doğal ve akıcı seslere dönüştüren modern bir TTS (Text-to-Speech) platformudur. Chatterbox TTS modeli üzerine inşa edilmiş olup, yüksek kaliteli ses klonlama ve çoklu dil desteği sunar.
 
