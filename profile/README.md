@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://nutuk.io/logo.svg" alt="Nutuk Logo" width="200" />
+  <img src="https://nutuk.io/logo.png" alt="Nutuk Logo" width="200" />
 </p>
 
 <h1 align="center">Nutuk</h1>
